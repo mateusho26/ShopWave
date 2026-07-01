@@ -29,7 +29,7 @@ O ShopWave é uma loja virtual que consome dados da Fake Store API, permitindo v
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/shopwave.git
+git clone https://github.com/mateusho26/shopwave.git
 ```
 
 Entre na pasta:
